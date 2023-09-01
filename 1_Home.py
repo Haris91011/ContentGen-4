@@ -1,7 +1,6 @@
 import streamlit as st
 from streamlit_chat import message
 from streamlit_Utilities import *
-import pyaudio
 from pathlib import Path
 import pathlib
 import wave
